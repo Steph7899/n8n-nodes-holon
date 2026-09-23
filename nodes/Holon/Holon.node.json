@@ -1,0 +1,10 @@
+{
+	"node": "n8n-nodes-holon.holon",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["AI", "Developer Tools"],
+	"resources": {
+		"credentialDocumentation": [{ "url": "https://useholon.com/n8n" }],
+		"primaryDocumentation": [{ "url": "https://github.com/Steph7899/n8n-nodes-holon#readme" }]
+	}
+}
