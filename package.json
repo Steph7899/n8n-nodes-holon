@@ -18,7 +18,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Steph7899/n8n-nodes-holon.git"
+		"url": "git+https://github.com/Steph7899/n8n-nodes-holon.git"
 	},
 	"scripts": {
 		"build": "n8n-node build",
@@ -53,5 +53,8 @@
 	},
 	"peerDependencies": {
 		"n8n-workflow": "*"
+	},
+	"publishConfig": {
+		"access": "public"
 	}
 }
